@@ -1,5 +1,5 @@
 const allowedCors = [
-  "https://finalfront.nomorepartiesco.ru",
+  "https://finalback.nomorepartiesco.ru",
   "https://finalfront.nomorepartiesco.ru",
   "https://practicum.yandex.ru",
   "https://students-projects.ru",
