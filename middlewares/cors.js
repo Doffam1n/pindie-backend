@@ -1,4 +1,6 @@
 const allowedCors = [
+  "finalfront.nomorepartiesco.ru",
+  "finalback.nomorepartiesco.ru",
   "https://practicum.yandex.ru",
   "https://students-projects.ru",
   "http://localhost:3000",
